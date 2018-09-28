@@ -1,0 +1,19 @@
+﻿$PBExportHeader$p_rest_client_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:rest_client.exe,,0,1,1
+CMP:0,0,0,2,0,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:rest_client.pbl,,1
+OBJ:D:\PB\PB171R3\Rest Client\rest_client.pbl,d_headers,d
+OBJ:D:\PB\PB171R3\Rest Client\rest_client.pbl,d_history,d
+OBJ:D:\PB\PB171R3\Rest Client\rest_client.pbl,rest_client,a
+OBJ:D:\PB\PB171R3\Rest Client\rest_client.pbl,w_client,w
+OBJ:D:\PB\PB171R3\Rest Client\rest_client.pbl,d_timesheet,d
