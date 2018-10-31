@@ -776,7 +776,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 boolean sorted = false
-string item[] = {"Content-Type:application/x-www-form-urlencoded","Content-Type:application/json","Accept:text/html"}
+string item[] = {"Content-Type:application/x-www-form-urlencoded","Content-Type:application/json","Accept:text/html","Accept-Encoding:gzip, deflate, sdch"}
 borderstyle borderstyle = stylelowered!
 end type
 
